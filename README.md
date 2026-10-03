@@ -192,9 +192,7 @@ The documents are split into chunks before being converted into embeddings and s
 
 **Streamlit Cloud:**  
 
-> Add your Streamlit Cloud live demo link here.
-
-`https://college-assistant-7c8qqsmufdjr9cywk3owr3.streamlit.app/`
+[Open Live Demo](https://college-assistant-7c8qqsmufdjr9cywk3owr3.streamlit.app/)
 
 ---
 
@@ -202,9 +200,7 @@ The documents are split into chunks before being converted into embeddings and s
 
 **GitHub:**  
 
-> Add your GitHub repository link here.
-
-`https://shitsukendu.github.io/college-assistant/`
+[View On GitHub](https://shitsukendu.github.io/college-assistant/)
 
 ---
 
